@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<false/>
+			<key>Icon</key>
+			<data>
+			iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAAAAXNS
+			R0IArs4c6QAAAAlwSFlzAAAhOAAAITgBRZYxYAAAAxFJREFUeAHt
+			279rFEEUB/DvxSAo/qpsRA1RCVimsBBEDAqipBMSiE2q+w9UECys
+			9D8wYKVop42CAUFtFCvriCghIiQgmMIfCMr6nl4Kl9u8mbczs7PL
+			G3gkd29u9s3nZo/9cdcrigLWqgVGqlOWYQEDEtaBARmQICCkbQUZ
+			kCAgpG0FGZAgIKRtBRmQICCkbQUJQKNCfnh6ocfPb6O4QjFHMUax
+			hSLH9puKWqa4R3GD4gf67uefOiBgO23oKcVxitwbv3GHKK5RnKY4
+			Q/Gdwqlpd7HLNHobcMoIXPOl8pObPdYC8W7V1nbRp3At0JjPRjLr
+			61W7FijXD2SX98Krdi2QSyGd6GNAwttoQAYkCAhpW0EGJAgI6W6u
+			oCN0HDv7Djhxi6b/97xRYKhOdw9oYh44dQfYfRg42gd2HqyevUOm
+			W0CMc/I2LZrBtNZeA18/OjBUd+kOUBnn8xvgyTmg4Ksd+tYNoGE4
+			j+nKxs8vepnBK9sPFBGHjdoNFBmn3UAJcNoLlAinnUAJceIAjWzl
+			ceO0xDg8ibAf0gfOA/PrwMwSsGs8LFIDOOGBxi8Ao3S7bM8EMP2C
+			kPhuS4DWEA5XHnYFLdFh/q/BLacd+wnpeX2kBnHCA62+BBanwyE1
+			jBMeiEf89CwMUgY4cYBCIGWCEw+oDlJGOHGBNEiZ4cQH8kHKECcN
+			kAtSpjjpgDZDmrz6/2VSvhIY6GIXb7Zu66l+7bPQc/+KVrnCfVPA
+			2Ud0xM3fwSq1VDj9wvlWR9gj6dJ8hz4sHydtdEqFs7E9x7/pgbiw
+			MlKmOFyq9juK/Np6jZEeTAJ7jwEfHtLpybd640V6dXNAPKH1t/8i
+			0uRCDNvMLhai8kRjGJAAbUAGJAgIae0KqnfDWygqctqrdi3QcuRJ
+			xBx+xWdwLdB9n41k1veuTz1aIP7VzCufDWXSl2u+6VOLFohvXdD3
+			S3Cd4j2F135N/VM2ro1r5Fq55sFtF/rPoenO5h0G7koX7QrqyvzF
+			eRiQQGRABiQICGlbQQYkCAhpW0EGJAgIaVtBBiQICGlbQQLQH3pM
+			AAEAcxsEAAAAAElFTkSuQmCC
+			</data>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>TestShop</string>
+			<key>PayloadDescription</key>
+			<string>配置 Web Clip</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip (TestShop)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.godbe.profile.WebClip</string>
+			<key>PayloadOrganization</key>
+			<string>godbe</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>D22BB6D8-B425-4B09-B893-42C309D691B0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<false/>
+			<key>URL</key>
+            <string>sample://</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>gaga</string>
+	<key>PayloadDisplayName</key>
+	<string>TestShop</string>
+	<key>PayloadIdentifier</key>
+	<string>com.godbe.profile</string>
+	<key>PayloadOrganization</key>
+	<string>godbe</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>F0FE1B2D-7A89-45A5-8D42-FDFC2CC1484A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
